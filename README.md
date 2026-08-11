@@ -6,13 +6,13 @@ An interactive **HR Analytics Dashboard** built using **Microsoft Power BI** to 
 
 ![HR Analytics Dashboard](HR%20Dashboard.png)
 
-## Tools Used
+## Tools & Technologies
 
 * Microsoft Power BI
 * Power Query
 * DAX
 
-## Skills
+## Skills Demonstrated
 
 * Data Cleaning & Transformation
 * Data Analysis
