@@ -17,9 +17,7 @@ An interactive **HR Analytics Dashboard** built using **Microsoft Power BI** to 
 * Data Cleaning & Transformation
 * Data Analysis
 * Data Visualization
-* Data Modeling
 * DAX
-* Dashboard Development
 
 ## Project Overview
 
